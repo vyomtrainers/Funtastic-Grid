@@ -8,4 +8,5 @@ Funtastic Grid is Salesforce LWC Component which provides the LWC Grid Component
 
 # TO DO
 1. Caching 
-2. 
+2. Search On Numbers 
+3. Search on Dates
